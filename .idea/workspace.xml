@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="7d90c804-4f49-4f6c-ae25-45b9b0f9cb11" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +17,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -47,11 +49,14 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="ru.fafurin.gb.lesson2" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="V:\JavaProjects\JDK\src\main\java\nmp" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ru.fafurin.gb.lesson1.Main">
+  <component name="RunManager" selected="Application.ru.fafurin.gb.lesson2.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ru.fafurin.gb.lection1.Main" />
       <module name="JDK" />
@@ -91,8 +96,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ru.fafurin.gb.lesson2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.fafurin.gb.lesson2.Main" />
+      <module name="JDK" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.fafurin.gb.lesson2.client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ru.fafurin.gb.lesson2.Main" />
         <item itemvalue="Application.ru.fafurin.gb.lesson1.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.nmp.Main" />

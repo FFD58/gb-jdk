@@ -1,2 +1,3 @@
 Pavel: Hello!
-Oleg: Hello!
+Olga: Hello, Pavel!
+Pavel: OK!
