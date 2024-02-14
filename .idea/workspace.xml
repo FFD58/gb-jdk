@@ -5,15 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7d90c804-4f49-4f6c-ae25-45b9b0f9cb11" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/fafurin/gb/lection1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,7 +15,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
+        <option value="Record" />
       </list>
     </option>
   </component>
@@ -51,21 +45,28 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "V:/JavaProjects/JDK/src/main/java/nmp"
+    "last_opened_file_path": "V:/JavaProjects/JDK"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="ru.fafurin.gb.lesson3.task2" />
+      <recent name="ru.fafurin.gb.lesson2" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="V:\JavaProjects\JDK\src\main\java\nmp" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ru.fafurin.gb.lesson3.task2" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.ru.fafurin.gb.lesson3.task3.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.fafurin.gb.lection1.Main" />
+      <option name="MAIN_CLASS_NAME" value="ru.fafurin.gb.lesson3.task3.Main" />
       <module name="JDK" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.fafurin.gb.lection1.*" />
+          <option name="PATTERN" value="ru.fafurin.gb.lesson3.task3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,12 +74,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="nmp.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="nmp.Main" />
+    <configuration name="ru.fafurin.gb.lesson1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.fafurin.gb.lesson1.Main" />
       <module name="JDK" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="nmp.*" />
+          <option name="PATTERN" value="ru.fafurin.gb.lesson1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ru.fafurin.gb.lesson2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.fafurin.gb.lesson2.Main" />
+      <module name="JDK" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.fafurin.gb.lesson2.client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ru.fafurin.gb.lesson3.task1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.fafurin.gb.lesson3.task1.Main" />
+      <module name="JDK" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.fafurin.gb.lesson3.task1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ru.fafurin.gb.lesson3.task2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.fafurin.gb.lesson3.task2.Main" />
+      <module name="JDK" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.fafurin.gb.lesson3.task2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,8 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.nmp.Main" />
+        <item itemvalue="Application.ru.fafurin.gb.lesson3.task3.Main" />
+        <item itemvalue="Application.ru.fafurin.gb.lesson3.task2.Main" />
+        <item itemvalue="Application.ru.fafurin.gb.lesson3.task1.Main" />
+        <item itemvalue="Application.ru.fafurin.gb.lesson2.Main" />
+        <item itemvalue="Application.ru.fafurin.gb.lesson1.Main" />
       </list>
     </recent_temporary>
   </component>
