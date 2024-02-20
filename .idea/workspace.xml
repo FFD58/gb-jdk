@@ -40,14 +40,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "V:/JavaProjects/JDK"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;V:/JavaProjects/JDK&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="ru.fafurin.gb.lesson4" />
@@ -61,13 +61,13 @@
       <recent name="ru.fafurin.gb.lesson3.task2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ru.fafurin.gb.lesson4.Main">
-    <configuration name="ru.fafurin.gb.lesson1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.fafurin.gb.lesson1.Main" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.fafurin.gb.lesson5.Main" />
       <module name="JDK" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.fafurin.gb.lesson1.*" />
+          <option name="PATTERN" value="ru.fafurin.gb.lesson5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.ru.fafurin.gb.lesson4.Main" />
         <item itemvalue="Application.ru.fafurin.gb.lesson3.task2.Main" />
         <item itemvalue="Application.ru.fafurin.gb.lesson3.task1.Main" />
         <item itemvalue="Application.ru.fafurin.gb.lesson2.Main" />
-        <item itemvalue="Application.ru.fafurin.gb.lesson1.Main" />
       </list>
     </recent_temporary>
   </component>
